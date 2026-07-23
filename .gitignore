@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+temp_ui_stream.mp4
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
